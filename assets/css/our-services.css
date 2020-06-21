@@ -13,7 +13,7 @@
 }
 button a{
     text-decoration: none;
-    color:inherit 
+    color: white !important
 }
 /* transition for the services cards */
 .items:hover{
