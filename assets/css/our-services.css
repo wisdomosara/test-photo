@@ -11,9 +11,12 @@
     max-height: 100px;
     margin-bottom:30px !important
 }
-button a{
+a{
     text-decoration: none;
-    color: white !important
+    color: inherit !important
+}
+a:hover{
+    text-decoration: none;
 }
 /* transition for the services cards */
 .items:hover{
