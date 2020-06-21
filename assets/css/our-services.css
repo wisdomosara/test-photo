@@ -11,6 +11,10 @@
     max-height: 100px;
     margin-bottom:30px !important
 }
+button a{
+    text-decoration: none;
+    color:inherit 
+}
 /* transition for the services cards */
 .items:hover{
     transform: scale(1.06);
